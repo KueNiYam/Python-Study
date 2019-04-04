@@ -31,7 +31,11 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="map.py" />
+    <Compile Include="sorted.py" />
     <Compile Include="string_ex.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="zip.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
