@@ -3,7 +3,8 @@
 "파이썬을 파이썬답게" 공부  
 <https://programmers.co.kr/learn/courses/4008>
 
-## 2. 목록
+## 2. 목록  
+다루는 내용입니다.
     divmod  
     int  
     ljust, center, rjust  
