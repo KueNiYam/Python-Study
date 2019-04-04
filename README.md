@@ -5,6 +5,7 @@
 
 ## 2. 목록  
 다루는 내용입니다.  
+
     divmod  
     int  
     ljust, center, rjust  
