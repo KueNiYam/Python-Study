@@ -1,4 +1,4 @@
-# python_study
+# Python-Study
 ## 1. 설명
 "파이썬을 파이썬답게" 공부  
 <https://programmers.co.kr/learn/courses/4008>
