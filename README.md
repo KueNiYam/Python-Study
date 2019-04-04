@@ -1,8 +1,8 @@
 # Python_Study
 "파이썬을 파이썬답게" 공부
-<https://programmers.co.kr/learn/courses/4008>
+https://programmers.co.kr/learn/courses/4008
 
-##목록
+## 목록
 divmod
 int
 ljust, center, rjust
