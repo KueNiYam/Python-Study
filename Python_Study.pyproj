@@ -24,15 +24,54 @@
     <Compile Include="alignment.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="asterisk.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="binary_search.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cartesian_product.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="class_str_casting.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="combination.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="counter.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="divmod.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="from_iterable.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="inf.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="int.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="join.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="list_comprehension.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="map.py" />
+    <Compile Include="map2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="permutation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="sorted.py" />
     <Compile Include="string_ex.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="swap.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="zip.py">
